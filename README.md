@@ -1,27 +1,3 @@
-# Setup do Repositório GitHub para o E-book
-
-## 🏷️ Configurações do Repositório
-
-### Nome do Repositório
-```
-EbookGuiaObsidianGithub
-```
-
-### Descrição Curta (para o GitHub)
-```
-📚 Guia completo para integrar Obsidian com GitHub - Sincronize suas anotações de forma profissional com controle de versão e backup automático
-```
-
-### Topics/Tags (Separadas por vírgula)
-```
-obsidian, github, git, notas, sincronizacao, backup, controle-versao, tutorial, guia, portugues, brasil
-```
-
----
-
-# README.md Principal
-
-```markdown
 # 🎯 O que você vai aprender
 
 Este guia ensina **passo a passo** como integrar o Obsidian com GitHub, permitindo que você:
@@ -68,7 +44,7 @@ Este guia ensina **passo a passo** como integrar o Obsidian com GitHub, permitin
 ├── 📄 README.md                 # Este arquivo
 ├── 📚 ebook.md                  # E-book completo                  
 └── ⚖️ LICENSE                  # MIT License
-
+```
 
 ## 🤝 Como contribuir
 
